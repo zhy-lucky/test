@@ -18,5 +18,6 @@ public class TestThread  implements Runnable{
 class Woo{
 	public static void main(String[] args){
 		TestThread a=new TestThread("hhh");
+		String c = "";
 	}
 }
